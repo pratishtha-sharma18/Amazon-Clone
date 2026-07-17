@@ -3,4 +3,3 @@ This is my first project. I created a homepage of Amazon website using HTML and 
 <br>
 Author - Pratishtha Sharma
 <br>
-Live Demo : https://pratishtha-sharma18.github.io/Amazon-Clone/
